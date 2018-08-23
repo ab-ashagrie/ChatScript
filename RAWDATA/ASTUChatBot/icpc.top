@@ -3,7 +3,8 @@ concept: ~astu ["adama science and technology univeristy" "adama university" "co
 
 topic: ~icpc keep repeat [icpc ~astu]
 
-u: (what is ~icpc) ICPC is an annual multi-tiered competitive programming competition among the universities of world.
+u: (what is ~icpc) [ICPC is an annual multi-tiered competitive programming competition among the universities of world.] 
+                    [The ICPC is affiliated with the ICPC Foundation and operates under agreements with host universities and non-profits, all in accordance with the ICPC Policies and Procedures.]
 
 u: (who * participate * ~icpc) Every student of ASTU can Participate on ICPC competetions.
 
